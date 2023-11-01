@@ -1,3 +1,4 @@
 # Orta-Okul-Projelerim
 
-Bu dosyaların tamamını orta okuldayken yapmıştım ama şuan lise 4 deyim yayınlamak istedim daha sonrası için hatıra
+Bu Dosyaların Tamamını Orta Okuldayken Yapmıştım Ama Şuan Lise 12.Sınıftayım Yayınlamak İstedim Daha Sonrası İçin Hatıra
+Ayrıca Lisede Yaptıklarımada Göz Atabilirsiniz
